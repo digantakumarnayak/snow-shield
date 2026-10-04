@@ -1,0 +1,3 @@
+transaction_id,customer_email,credit_card,amount
+TXN1001,john.doe@gmail.com,4111-2222-3333-4444,250.50
+TXN1002,alice.smith@yahoo.com,5555-6666-7777-8888,12.00
