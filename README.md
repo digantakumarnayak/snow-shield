@@ -51,6 +51,10 @@ python snowshield.py ingest --file <path-to-csv> --table <target-table>
 python snowshield.py ingest --file financial_logs.csv --table regulatory_audit_log
 ```
 
+### Output
+![alt text](image-1.png)
+
+
 ## 📖 CLI Reference
 
 ### `ingest`
